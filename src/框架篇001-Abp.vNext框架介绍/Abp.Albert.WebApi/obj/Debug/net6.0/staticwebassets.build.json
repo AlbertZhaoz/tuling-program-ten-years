@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mjNO7GjbQ17iXp5fLGgtgaF7LyYCYm702kvx4dtkaog=",
+  "Source": "Abp.Albert.WebApi",
+  "BasePath": "_content/Abp.Albert.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
