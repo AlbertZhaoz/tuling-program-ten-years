@@ -1,0 +1,15 @@
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\bin\Debug\net6.0\设计模式篇002-工厂方法模式.exe
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\bin\Debug\net6.0\设计模式篇002-工厂方法模式.deps.json
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\bin\Debug\net6.0\设计模式篇002-工厂方法模式.runtimeconfig.json
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\bin\Debug\net6.0\设计模式篇002-工厂方法模式.dll
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\bin\Debug\net6.0\设计模式篇002-工厂方法模式.pdb
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\设计模式篇002-工厂方法模式.csproj.AssemblyReference.cache
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\设计模式篇002-工厂方法模式.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\设计模式篇002-工厂方法模式.AssemblyInfoInputs.cache
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\设计模式篇002-工厂方法模式.AssemblyInfo.cs
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\设计模式篇002-工厂方法模式.csproj.CoreCompileInputs.cache
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\设计模式篇002-工厂方法模式.dll
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\refint\设计模式篇002-工厂方法模式.dll
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\设计模式篇002-工厂方法模式.pdb
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\设计模式篇002-工厂方法模式.genruntimeconfig.cache
+F:\Repo\00_DotnetTenYears\src\设计模式篇002-工厂方法模式\obj\Debug\net6.0\ref\设计模式篇002-工厂方法模式.dll

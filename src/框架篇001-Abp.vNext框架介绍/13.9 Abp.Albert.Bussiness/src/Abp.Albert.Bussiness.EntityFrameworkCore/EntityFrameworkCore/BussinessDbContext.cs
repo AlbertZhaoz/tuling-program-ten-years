@@ -17,8 +17,8 @@ using Volo.Abp.TenantManagement.EntityFrameworkCore;
 
 namespace Abp.Albert.Bussiness.EntityFrameworkCore;
 
-//[ReplaceDbContext(typeof(IIdentityDbContext))]
-//[ReplaceDbContext(typeof(ITenantManagementDbContext))]
+[ReplaceDbContext(typeof(IIdentityDbContext))]
+[ReplaceDbContext(typeof(ITenantManagementDbContext))]
 // 使用默认连接字符串，你也在这个特性下指定，尤其是在多数据库的情况下
 [ConnectionStringName("Default")]
 public class BussinessDbContext :
