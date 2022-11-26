@@ -40,6 +40,8 @@ namespace 设计模式篇002_工厂方法模式.抽象工厂设计模式实例
 
         public SqlSugarClient GetSqlSugarClient()
         {
+            // 非单例模式 
+            // 单例模式：SqlSugarScope 
             return new SqlSugarClient(new ConnectionConfig()
             {
                 ConnectionString = "xxx",
