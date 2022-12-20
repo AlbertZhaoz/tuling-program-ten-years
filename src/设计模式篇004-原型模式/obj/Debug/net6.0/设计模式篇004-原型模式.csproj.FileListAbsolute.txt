@@ -1,0 +1,17 @@
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\bin\Debug\net6.0\设计模式篇004-原型模式.exe
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\bin\Debug\net6.0\设计模式篇004-原型模式.deps.json
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\bin\Debug\net6.0\设计模式篇004-原型模式.runtimeconfig.json
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\bin\Debug\net6.0\设计模式篇004-原型模式.dll
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\bin\Debug\net6.0\设计模式篇004-原型模式.pdb
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.csproj.AssemblyReference.cache
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.AssemblyInfoInputs.cache
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.AssemblyInfo.cs
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.csproj.CoreCompileInputs.cache
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.dll
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\refint\设计模式篇004-原型模式.dll
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.pdb
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.genruntimeconfig.cache
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\ref\设计模式篇004-原型模式.dll
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\bin\Debug\net6.0\CloneExtensions.dll
+D:\SourceCode\00_DotnetTenYears\src\设计模式篇004-原型模式\obj\Debug\net6.0\设计模式篇004-原型模式.csproj.CopyComplete
