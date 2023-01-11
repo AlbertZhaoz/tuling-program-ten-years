@@ -1,0 +1,12 @@
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\bin\Debug\net6.0\Albert.MicroService.Core.deps.json
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\bin\Debug\net6.0\Albert.MicroService.Core.dll
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\bin\Debug\net6.0\Albert.MicroService.Core.pdb
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\Albert.MicroService.Core.csproj.AssemblyReference.cache
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\Albert.MicroService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\Albert.MicroService.Core.AssemblyInfoInputs.cache
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\Albert.MicroService.Core.AssemblyInfo.cs
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\Albert.MicroService.Core.csproj.CoreCompileInputs.cache
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\Albert.MicroService.Core.dll
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\refint\Albert.MicroService.Core.dll
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\Albert.MicroService.Core.pdb
+D:\SourceCode\00_DotnetTenYears\src\微服务002-微服务注册中心\Consul\Albert.MicroService\Albert.MicroService.Core\obj\Debug\net6.0\ref\Albert.MicroService.Core.dll

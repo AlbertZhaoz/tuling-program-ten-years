@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YF+97b/LWNO0Gtz3enqx6rOUQYl1rknBeTMVhRnEi98=",
+  "Source": "Albert.MicroService.MemberService",
+  "BasePath": "_content/Albert.MicroService.MemberService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

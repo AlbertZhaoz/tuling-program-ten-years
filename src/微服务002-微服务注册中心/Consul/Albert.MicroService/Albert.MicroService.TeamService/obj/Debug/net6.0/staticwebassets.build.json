@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "z0boO14T9bWzznfCv9JRrY7WX/WQFnvTnX1NUASnCAs=",
+  "Source": "Albert.MicroService.TeamService",
+  "BasePath": "_content/Albert.MicroService.TeamService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
