@@ -5,6 +5,10 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.WebHost.UseKestrel()
+    .UseUrls("http://*:9000")
+    .UseIIS();
+
 // Add services to the container.
 #region 注册服务
 // 1. 注册数据库服务

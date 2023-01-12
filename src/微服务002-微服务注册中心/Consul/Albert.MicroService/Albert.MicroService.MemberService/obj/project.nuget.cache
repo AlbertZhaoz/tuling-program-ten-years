@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PHhjqYdmsAslDAopXT9gPym98MkFpX4T+1HOMeVeUQ9PxafKsiEk1Bs2rzN//GDTWpDsTcdbrqOgaQ2II+8KYQ==",
+  "dgSpecHash": "XV5oiPLziRzxemxc0OQg9wcYld0wqKmwkQ9r9767rjnnSLI3rLmtqBzBXmgVZ6HKwpK6Dv/OpcQGzr35BqsKGA==",
   "success": true,
   "projectFilePath": "D:\\SourceCode\\00_DotnetTenYears\\src\\微服务002-微服务注册中心\\Consul\\Albert.MicroService\\Albert.MicroService.MemberService\\Albert.MicroService.MemberService.csproj",
   "expectedPackageFiles": [

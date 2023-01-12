@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albert.MicroService.Core", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albert.MicroService.MemberService", "Albert.MicroService.MemberService\Albert.MicroService.MemberService.csproj", "{BE0BFC8F-2DDD-4DBE-A781-88A774AC103A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Albert.MicroService.CommonService", "Albert.MicroService.CommonService\Albert.MicroService.CommonService.csproj", "{D0784B11-6593-4BD2-940B-ECF1AF218241}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,7 @@ Global
 		{3929B757-A791-4618-92EF-A9C96DADEE3C} = {E1E597EF-17A6-4F86-8CE5-A8E776EC0B6F}
 		{585B3E83-AD51-4B82-9EE9-B7EB44963066} = {E1E597EF-17A6-4F86-8CE5-A8E776EC0B6F}
 		{BE0BFC8F-2DDD-4DBE-A781-88A774AC103A} = {E1E597EF-17A6-4F86-8CE5-A8E776EC0B6F}
+		{D0784B11-6593-4BD2-940B-ECF1AF218241} = {E1E597EF-17A6-4F86-8CE5-A8E776EC0B6F}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3929B757-A791-4618-92EF-A9C96DADEE3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -31,5 +34,9 @@ Global
 		{BE0BFC8F-2DDD-4DBE-A781-88A774AC103A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE0BFC8F-2DDD-4DBE-A781-88A774AC103A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE0BFC8F-2DDD-4DBE-A781-88A774AC103A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0784B11-6593-4BD2-940B-ECF1AF218241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0784B11-6593-4BD2-940B-ECF1AF218241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0784B11-6593-4BD2-940B-ECF1AF218241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0784B11-6593-4BD2-940B-ECF1AF218241}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

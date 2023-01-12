@@ -6,6 +6,10 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.WebHost.UseKestrel()
+    .UseUrls("http://*:8000")
+    .UseIIS();
+
 // Add services to the container.
 #region 注册服务
 // 1. 注册数据库服务
@@ -15,12 +19,14 @@ builder.Services.AddDbContext<MemberContext>(option =>
     option.UseMySql(strDbConnect, new MySqlServerVersion(new Version(8, 0, 13)));
 });
 
+
 // 2. 注册 TeamService 服务
 builder.Services.AddMemberService();
 
 // 3. 注册 TeamRepository 服务
 builder.Services.AddMemberRepository();
 
+// ToDo:根据配置文件判断是否开启 Consul 注册
 // 4. 添加 Consul 注册服务
 builder.Services.AddConsulRegistry(builder.Configuration);
 #endregion
