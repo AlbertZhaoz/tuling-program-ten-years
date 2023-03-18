@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "TIjaERV0+9NsuuCsTQnf0d1nIm6lz9r1uSX+T53OJrtOyxfpiyMYxAXjwJZ+V15CV5PC5MAmGKlcVX8jEsO3wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\szdxz\\Downloads\\NET_FiveMinutes-master\\NET_FiveMinutes-master\\NET_FiveMinutes_007_MarkdownMiddleware\\NET_FiveMinutes_007_MarkdownMiddleware.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szdxz\\.nuget\\packages\\markdownsharp\\2.0.5\\markdownsharp.2.0.5.nupkg.sha512",
+    "C:\\Users\\szdxz\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\szdxz\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "C:\\Users\\szdxz\\.nuget\\packages\\system.security.accesscontrol\\4.5.0\\system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "C:\\Users\\szdxz\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "C:\\Users\\szdxz\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
+    "C:\\Users\\szdxz\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
+    "C:\\Users\\szdxz\\.nuget\\packages\\ude.netstandard\\1.2.0\\ude.netstandard.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zYQVwoxTF3inUc2NYrlycy6c9kwNDIB1Dn4Gscx32SYPBsNhxCWPSrjMNW4bcmXiYKlP9weok7/93VC50XXxjQ==",
+  "success": true,
+  "projectFilePath": "E:\\SourceCode\\00_DotnetTenYears\\src\\第三方Url调用\\第三方Url调用.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szdxz\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512"
+  ],
+  "logs": []
+}
