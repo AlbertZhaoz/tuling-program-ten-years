@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AUDRQSeG5qQBuFz+jG0pTrOIyxBWeuPS7jX3JIa6QbQ=",
+  "Source": "DI注入",
+  "BasePath": "_content/DI注入",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

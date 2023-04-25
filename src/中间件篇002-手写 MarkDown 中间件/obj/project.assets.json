@@ -361,11 +361,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\szdxz\\Downloads\\NET_FiveMinutes-master\\NET_FiveMinutes-master\\NET_FiveMinutes_007_MarkdownMiddleware\\NET_FiveMinutes_007_MarkdownMiddleware.csproj",
-      "projectName": "NET_FiveMinutes_007_MarkdownMiddleware",
-      "projectPath": "C:\\Users\\szdxz\\Downloads\\NET_FiveMinutes-master\\NET_FiveMinutes-master\\NET_FiveMinutes_007_MarkdownMiddleware\\NET_FiveMinutes_007_MarkdownMiddleware.csproj",
+      "projectUniqueName": "E:\\SourceCode\\00_DotnetTenYears\\src\\中间件篇002-手写 MarkDown 中间件\\中间件篇002-手写 MarkDown 中间件.csproj",
+      "projectName": "中间件篇002-手写 MarkDown 中间件",
+      "projectPath": "E:\\SourceCode\\00_DotnetTenYears\\src\\中间件篇002-手写 MarkDown 中间件\\中间件篇002-手写 MarkDown 中间件.csproj",
       "packagesPath": "C:\\Users\\szdxz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\szdxz\\Downloads\\NET_FiveMinutes-master\\NET_FiveMinutes-master\\NET_FiveMinutes_007_MarkdownMiddleware\\obj\\",
+      "outputPath": "E:\\SourceCode\\00_DotnetTenYears\\src\\中间件篇002-手写 MarkDown 中间件\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
